@@ -1,0 +1,136 @@
+body {
+    background: #ECEBFA;
+    font-family:'Times New Roman', Times, serif;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+span {
+    font-size: 1.3em;
+}
+
+/** IDS **/
+
+#titulo {
+    padding-left: 30px;
+}
+
+/** Classes **/
+
+.flex{
+    display: flex;
+    padding: 5px;
+}
+
+.flex-left1 {
+    text-align: center;
+    border-radius: 10px;
+    background-color: #e7e2f8;
+    padding: 30px 52px;
+    flex: 0;
+}
+.flex-left2 {
+    text-align: center;
+    border-radius: 10px;
+    background-color: #edcff0;
+    padding: 30px 60px;
+    flex: 0;
+}
+.flex-left3 {
+    text-align: center;
+    border-radius: 10px;
+    background-color: #f3e5d4;
+    padding: 30px 60px;
+    flex: 0;
+}
+.flex-left4 {
+    text-align: center;
+    border-radius: 10px;
+    background-color: #def8e7;
+    padding: 30px 60px;
+ 
+    flex: 0;
+}
+.strong1 {
+    background-color: #e7e2f8;
+    font-size: 2em;
+    
+}
+.strong2 {
+    background-color: #edcff0;
+    font-size: 2em;
+}
+.strong3 {
+    background-color: #f3e5d4;
+    font-size: 2em;
+}
+.strong4 {
+    background-color: #def8e7;
+    font-size: 2em;
+}
+.strong5 {
+    background-color: #FFF;
+    font-size: 1.7em;
+}
+.strong6 {
+    background-color: #FFF;
+    font-size: 1.7em;
+}
+.strong7 {
+    background-color: #FFF;
+    font-size: 1.7em;
+}
+.strong8 {
+    background-color: #FFF;
+    font-size: 1.7em;
+}
+
+
+.flex-right {
+    text-align: left;
+    padding: 15px;
+    background-color: #FFF;
+    flex: 1;
+}
+
+/** button**/
+
+
+.calendar1 {
+    background: #202432;
+    color: #FFF;
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px;
+    padding-right: 30px;
+    margin-left: 150px;
+}
+.calendar2{
+    color: #FFF;
+    background: #ECEBFA;
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px;
+    padding-right: 30px;
+    margin-left: 150px;
+    border-bottom: #ECEBFA;
+    border-top: #ECEBFA;
+    border-left: #ECEBFA;
+    border-right: #ECEBFA;
+    color: black;
+}
+
+
+/** Background **/
+
+.back {
+    padding: 15px;
+    border:1px solid #202432;
+    margin: 20px;
+    background-color: #FFF;
+    border-radius: 15px;
+    border-top: #FFF;
+    border-bottom: #FFF;
+    border-left: #FFF;
+    border-right: #FFF;
+    width: 1020px;
+}
